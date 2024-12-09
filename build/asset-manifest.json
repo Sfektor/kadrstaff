@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/kadrstaff/static/js/main.dad08c9c.js",
+    "static/media/card.jpg": "/kadrstaff/static/media/card.08aac80cfcb8fb69ba70.jpg",
+    "static/media/general.jpg": "/kadrstaff/static/media/general.3eac7957e529850d9e86.jpg",
+    "index.html": "/kadrstaff/index.html",
+    "main.dad08c9c.js.map": "/kadrstaff/static/js/main.dad08c9c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dad08c9c.js"
+  ]
+}
